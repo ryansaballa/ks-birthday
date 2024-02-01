@@ -71,23 +71,28 @@ h1, h2, h3, h4, p {
 
 #gift-img-happy:hover, #gift-img-happy:active {
     background-image: url("./images/happy.gif");
+    transition: 0.5s;
 }
 
 #gift-img-face:hover, #gift-img-face:active {
     background-image: url("./images/face.gif");
+    transition: 0.5s;
 }
 
 #gift-img-sensational:hover, #gift-img-sensational:active {
     background-image: url("./images/sensational.gif");
     background-size: cover;
+    transition: 0.5s;
 }
 
 #gift-img-cool:hover, #gift-img-cool:active {
     background-image: url("./images/kristine-01.jpg");
+    transition: 0.5s;
 }
 
 #gift-img-cheers:hover {
     background-image: url("./images/cheers.gif");
+    transition: 0.5s;
 }
 
 #footer {
